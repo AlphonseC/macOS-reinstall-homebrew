@@ -68,6 +68,7 @@ brew install --cask surfshark
 ## player
 brew install --cask iina
 brew install --cask vlc
+brew install --cask movist-pro
 ## Tools
 mas install 1254743014 #"LyricsX" 
 # brew install --cask aldente
