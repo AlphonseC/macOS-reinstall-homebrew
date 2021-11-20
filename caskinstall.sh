@@ -35,9 +35,9 @@ brew install "recode"
 brew install "wget"
 brew install "youtube-dl"
 ## Browsers
-brew install --cask firefox-beta
-brew install --cask google-chrome-beta
-brew install --cask microsoft-edge-beta
+brew install --cask firefox
+# brew install --cask google-chrome
+brew install --cask microsoft-edge
 #brew install --cask tor-browser
 ## Life
 brew install --cask welly
